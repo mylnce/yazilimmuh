@@ -1,8 +1,18 @@
 GEREKSİNİMLER
 1.Kayıt olabilme
+
 2.Giriş yapabilme
-3.Sepete ekleyebilme
-4.Sepetten silebilme
-6.Sepeti düzenleyebilme
-7.Sipariş verebilme
-8.Ödeme Yap
+
+3.Ürün ekleyebilme
+
+4.Ürün silebilme
+
+5.Sepeti düzenleyebilme
+
+6.Sipariş verebilme
+
+7.Ödeme Yap
+
+8.Ürünleri Görüntüleyebilme
+
+9.Site Hakkında
